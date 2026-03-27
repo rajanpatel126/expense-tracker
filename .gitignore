@@ -8,4 +8,5 @@ __pycache__/
 .claude/plans/
 *.lock
 *.toml
+*.png
 *.python-version
